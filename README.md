@@ -1,0 +1,1 @@
+# ann-person-going-to-exit-from-bank-or-not-
